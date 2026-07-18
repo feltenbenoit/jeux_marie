@@ -38,8 +38,8 @@ p {
 }
 
 #yes-button {
-    width: 20%;
-    height: 10%;
+    width: 20vw;
+    height: 10vh;
     background-color: #BADFFD;
     border: none;
     border-radius: 5px;

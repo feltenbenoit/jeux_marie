@@ -34,11 +34,11 @@ body {
 p {
     margin: 0;
     padding: 0;
-    margin-top: 10%;
+    padding-top: 10%;
 }
 
 #yes-button {
-    width: 30%;
+    width: 20%;
     height: 10%;
     background-color: #BADFFD;
     border: none;
@@ -51,7 +51,7 @@ p {
 }
 
 #end-message {
-    margin-top: 20%;
+    margin-top: 10%;
     width: 80%;
     height: auto;
     display: flex;
